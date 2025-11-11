@@ -1,0 +1,57 @@
+.section1 {
+    background-image: url(./images/slider-image1.jpg);
+    height: auto;
+    color: white !important; 
+}
+.nav-link {
+    color: #ffff;
+}
+.brand {
+    margin-left: 150px;
+    position: static;
+    color: #ffff;
+}
+.middlenav {
+    margin: 0 150px;
+}
+.navlink1:hover {
+    color: red;
+}
+.navbtn1:hover {
+    color: #ffff;
+    background-color: black;
+    border: none;
+}
+.first {
+    bottom: 200px;
+}
+.s2 {
+    text-align: left;
+}
+.btnmid {
+    background-color: rgb(44, 43, 43);
+    border: none;
+}
+.btnmid:hover {
+    background-color: white;
+    color: black;
+    border: none;
+}
+.btnlast {
+    background-color: transparent;
+    border: #ffff solid 2px;
+}
+.section2 {
+    padding: 100px;
+}
+.sidecont {
+    float: left ;
+    text-align: left;
+    width: 50%;
+    font-size: 20px;
+    padding: 20px 10px;
+}
+.sideimage {
+    width: 190%;
+    height: 700px;
+}

@@ -1,0 +1,26 @@
+#slide1 {
+    background-image: url(./images/slider-image1.jpg);
+    color: #fff;
+}
+#slide2{
+    background-image: url(./images/slider-image2.jpg);
+    color: #fff;
+}
+#slide3 {
+    background-image: url(./images/slider-image3.jpg);
+    color: #fff;
+}
+#slide4 {
+    background-image: url(./images/slider-image3.jpg);
+    color: #fff;
+}
+#slide5 {
+    background-image: url(./images/slider-image1.jpg);
+}
+.first {
+    bottom: 190px;
+    background-color: yellowgreen;
+}
+.s2 {
+    text-align: left;
+}
