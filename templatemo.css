@@ -43,7 +43,6 @@
 }
 .section2 {
     padding: 50px;
-    background-color: yellowgreen;
 }
 .sidecont {
     float: left ;
@@ -52,7 +51,6 @@
     font-size: 15px;
     padding: 50px 10px;
     margin-left: 20px;
-    background-color: yellow;
 }
 .sideimage {
     width: 190%;
