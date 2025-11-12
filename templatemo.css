@@ -43,17 +43,14 @@
 }
 .section2 {
     padding: 50px;
+    background-color: yellowgreen;
 }
 .sidecont {
-    float: left ;
-    text-align: left;
-    width: 50%;
-    font-size: 15px;
-    padding: 50px 10px;
+    font-size: 13px;
     margin-left: 20px;
+    background-color: yellow;
 }
 .sideimage {
-    width: 190%;
-    height: auto;
-    padding: 50px 40px;
+    width: 100%;
+    background-color: violet;
 }
